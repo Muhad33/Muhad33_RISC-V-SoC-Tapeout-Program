@@ -44,8 +44,10 @@ This repository documents my **week-by-week progress** as I learn, implement, an
 ---
 
 ## 🙏 Acknowledgment
-Special thanks to **Kunal Ghosh** and the **VLSI System Design (VSD) Team** for creating this incredible learning opportunity.  
-Also grateful for the support of **RISC-V International**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and **Efabless** for enabling this program.  
+Special thanks to **[Kunal Ghosh](https://github.com/kunalg123)** and the **[VLSI System Design (VSD) Team](https://github.com/vlsisystemdesign)** for this unique learning opportunity.  
+
+Also grateful for the support of **[RISC-V International](https://riscv.org/)**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and **[Efabless](https://efabless.com/)** for enabling this program.  
+ 
 
 ---
 
