@@ -1,0 +1,1 @@
+Yosys 0.57+153 (git sha1 6b3a7e244, clang++ 14.0.0-1ubuntu1.1 -fPIC -O3)
