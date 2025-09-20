@@ -89,7 +89,7 @@ sudo apt install gtkwave
 
 ## 📷  Verification
 
-![gtk Installation Screenshot](screenshots/gtk-screenshot.png)
+![gtk Installation Screenshot](screenshots/gtkwave-screenshot.png)
 
 ✅ **GTKWave Successfully Installed**
 
@@ -156,5 +156,5 @@ With this solid setup in place, the project is primed for progressing to hardwar
 
 ## 📚 Repository & Author
 
-**Repository:** [Muhad33]  
+**Repository:** [Muhad33_RISC-V-SoC-Tapeout-Program]  
 **Author:** Muhammed Muhad
