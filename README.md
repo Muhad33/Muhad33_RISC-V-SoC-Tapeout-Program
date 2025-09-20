@@ -21,7 +21,7 @@ This repository documents my **week-by-week progress** as I learn, implement, an
 | Task 1 | 📂 Repository Creation & Introductory Video Summary | ✅ Completed |
 | Task 2 | 🛠️ Open-Source Tools Installation (Yosys, Icarus Verilog, GTKWave, Ngspice, Magic) | ✅ Completed |
 
-👉 [View Full Week 0 Progress Here](./Week0) 
+ - 👉 [View Full Week 0 Progress Here](./Week0) 
 ---
 
 ## 🌟 Key Learnings (Week 0)
