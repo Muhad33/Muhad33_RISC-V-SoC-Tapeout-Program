@@ -1,11 +1,14 @@
 # 🖥️ RISC-V SoC Tapeout Program — VSD  
-[![RISC-V](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://riscv.org/)
-[![SOC TAPOUT](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](./Week0)
+
+
+[![RISC-V](https://img.shields.io/badge/RISC--V-%20-blue)](https://riscv.org/)
+[![SOC TAPOUT](https://img.shields.io/badge/SOC%20TAPEOUT-%20-blueviolet)](./Week0)
 [![VSD](https://img.shields.io/badge/VSD-%20-lightgrey)](https://github.com/vlsisystemdesign)
 [![PROGRAM](https://img.shields.io/badge/PROGRAM-%20-orange)](https://github.com/Muhad33/Muhad33_RISC-V-SoC-Tapeout-Program)
 [![PARTICIPANTS](https://img.shields.io/badge/PARTICIPANTS-%203500%2B-brightgreen)](https://riscv.org/)
 [![MADE IN](https://img.shields.io/badge/MADE%20IN-%20-yellow)](https://github.com/Muhad33)
 [![INDIA](https://img.shields.io/badge/INDIA-%20-green)](https://riscv.org/)
+
 
 
 # 🖥️ RISC-V SoC Tapeout Program — VSD  
